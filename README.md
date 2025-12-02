@@ -133,19 +133,6 @@ Investors assess market viability
 
 Analysts explore cuisine and customer insights
 
-📈 Key Highlights
-
-4-page professional dashboard
-
-25+ DAX measures
-
-Blueprint layout + workflow diagram
-
-Complete BRD (Business Requirements Document)
-
-Clean UI inspired by modern SaaS dashboards
-
-Ideal for portfolio, interview showcase, and analytics presentations
 
 🙌 Author
 
